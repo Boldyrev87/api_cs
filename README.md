@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uktxj62yh8nwwmx8?svg=true)](https://ci.appveyor.com/project/Boldyrev87/api-cs-waylr)
